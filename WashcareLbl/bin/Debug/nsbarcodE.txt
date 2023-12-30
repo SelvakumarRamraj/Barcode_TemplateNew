@@ -1,0 +1,35 @@
+<xpml><page quantity='0' pitch='45.0 mm'></xpml>SIZE 69.10 mm, 45 mm
+DIRECTION 0,0
+REFERENCE 0,0
+OFFSET 0 mm
+SPEED 7
+SET PEEL OFF
+SET CUTTER OFF
+SET PARTIAL_CUTTER OFF
+<xpml></page></xpml><xpml><page quantity='3' pitch='45.0 mm'></xpml>SET TEAR ON
+CLS
+BITMAP 283,312,3,32,1,аяр?яшяьяюяяяяЃяяАяяаяр?яшяшяЂюяьяш?яш?яш?яЂ   ш?яшяЂ     яяяяяяяяяяяяяяяяяяяяя
+CODEPAGE 1252
+TEXT 433,339,"0",180,13,12,"MRP Rs."
+TEXT 277,339,"0",180,14,12,"2995.00"
+TEXT 538,291,"0",180,11,12,"LINEN PANT WHITE"
+TEXT 538,258,"0",180,9,9,"COLOUR :"
+TEXT 538,230,"0",180,8,9,"CONTENT :"
+TEXT 439,258,"ROMAN.TTF",180,1,9,"WHITE"
+TEXT 430,230,"0",180,9,9,"PANT"
+TEXT 182,252,"ROMAN.TTF",180,1,11,"FULL"
+TEXT 109,249,"0",180,11,10,"Length"
+TEXT 182,211,"0",180,9,17,"Code:"
+TEXT 119,216,"0",180,18,21,"34"
+TEXT 63,198,"0",180,7,10,"(Inch)"
+TEXT 126,158,"0",180,12,9,"Qty :1N"
+QRCODE 519,199,L,3,A,180,M2,S7,"2312-9137-3S"
+TEXT 367,159,"0",180,10,8,"MFD:Dec 2023"
+TEXT 322,131,"0",180,18,12,"##"
+TEXT 277,131,"0",180,9,8,"53001"
+TEXT 346,313,"ROMAN.TTF",180,1,7,"(Incl.of all Taxes)"
+TEXT 538,133,"0",180,9,7,"2312-9137-3S"
+TEXT 120,279,"0",180,12,9,"86 cm"
+TEXT 182,283,"0",180,11,11,"Size:"
+PRINT 1,1
+<xpml></page></xpml><xpml><end/></xpml>
